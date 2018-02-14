@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamarin", "HelloXamarin\HelloXamarin.csproj", "{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95D01501-9CA6-44E2-9E74-84CB0E3DF674}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Release|iPhone.Build.0 = Release|iPhone
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EFA5A5C6-AFFD-43A4-A640-A9D6D3EB4513}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4E872A-E6DA-40F2-BF94-4F010B09714B}
+	EndGlobalSection
+EndGlobal
